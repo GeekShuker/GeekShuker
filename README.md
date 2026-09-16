@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Meir Shuker 👋</h1>
 
 <p align="center">
-  <b>Final-year Computer Science student</b> · Junior Software Engineer<br>
+  <b>Computer Science graduate</b> · Junior Software Engineer<br>
   🔐 Cyber Security &nbsp;|&nbsp; 🤖 Machine Learning &amp; AI
 </p>
 
